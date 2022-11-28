@@ -18,7 +18,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
-![imAGE](scr.png)
+![image](https://user-images.githubusercontent.com/93427182/204217058-64096bf7-b7db-4988-960d-eed48ded99b5.png)
+
 
 ## Program
 ```
@@ -52,5 +53,5 @@ print("---------------------------------------------------------------")
 
 ```
 ## Output  and result
+![image](https://user-images.githubusercontent.com/93427182/204217000-98066697-afef-492f-9427-397f640064ff.png)
 
-![imAGE](OUT.png)
