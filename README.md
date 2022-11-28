@@ -55,3 +55,5 @@ print("---------------------------------------------------------------")
 ## Output  and result
 ![image](https://user-images.githubusercontent.com/93427182/204217000-98066697-afef-492f-9427-397f640064ff.png)
 
+## Result 
+Thus the program is verified successfully.
